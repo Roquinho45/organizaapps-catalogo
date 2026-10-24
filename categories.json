@@ -1,0 +1,490 @@
+{
+  "formatVersion": 1,
+  "updatedAt": "2026-10-24",
+  "categories": [
+    {
+      "key": "art_design",
+      "name_pt_BR": "Arte e Design"
+    },
+    {
+      "key": "auto_vehicles",
+      "name_pt_BR": "Auto e Veículos"
+    },
+    {
+      "key": "beauty",
+      "name_pt_BR": "Beleza"
+    },
+    {
+      "key": "books_reference",
+      "name_pt_BR": "Livros e Referência"
+    },
+    {
+      "key": "business",
+      "name_pt_BR": "Negócios"
+    },
+    {
+      "key": "comics",
+      "name_pt_BR": "Quadrinhos"
+    },
+    {
+      "key": "communication",
+      "name_pt_BR": "Comunicação"
+    },
+    {
+      "key": "dating",
+      "name_pt_BR": "Encontros"
+    },
+    {
+      "key": "education",
+      "name_pt_BR": "Educação"
+    },
+    {
+      "key": "entertainment",
+      "name_pt_BR": "Entretenimento"
+    },
+    {
+      "key": "events",
+      "name_pt_BR": "Eventos"
+    },
+    {
+      "key": "finance",
+      "name_pt_BR": "Finanças"
+    },
+    {
+      "key": "food_drink",
+      "name_pt_BR": "Comida e Bebida"
+    },
+    {
+      "key": "health_fitness",
+      "name_pt_BR": "Saúde e Fitness"
+    },
+    {
+      "key": "house_home",
+      "name_pt_BR": "Casa e Decoração"
+    },
+    {
+      "key": "libraries_demo",
+      "name_pt_BR": "Bibliotecas e Demos"
+    },
+    {
+      "key": "lifestyle",
+      "name_pt_BR": "Estilo de Vida"
+    },
+    {
+      "key": "maps_navigation",
+      "name_pt_BR": "Mapas e Navegação"
+    },
+    {
+      "key": "medical",
+      "name_pt_BR": "Medicina"
+    },
+    {
+      "key": "music_audio",
+      "name_pt_BR": "Música e Áudio"
+    },
+    {
+      "key": "news_magazines",
+      "name_pt_BR": "Notícias e Revistas"
+    },
+    {
+      "key": "parenting",
+      "name_pt_BR": "Paternidade"
+    },
+    {
+      "key": "personalization",
+      "name_pt_BR": "Personalização"
+    },
+    {
+      "key": "photography",
+      "name_pt_BR": "Fotografia"
+    },
+    {
+      "key": "productivity",
+      "name_pt_BR": "Produtividade"
+    },
+    {
+      "key": "shopping",
+      "name_pt_BR": "Compras"
+    },
+    {
+      "key": "social",
+      "name_pt_BR": "Social"
+    },
+    {
+      "key": "sports",
+      "name_pt_BR": "Esportes"
+    },
+    {
+      "key": "tools",
+      "name_pt_BR": "Ferramentas"
+    },
+    {
+      "key": "travel_local",
+      "name_pt_BR": "Viagem e Local"
+    },
+    {
+      "key": "video_players",
+      "name_pt_BR": "Vídeo"
+    },
+    {
+      "key": "weather",
+      "name_pt_BR": "Clima"
+    },
+    {
+      "key": "games",
+      "name_pt_BR": "Jogos"
+    },
+    {
+      "key": "game_action",
+      "name_pt_BR": "Ação"
+    },
+    {
+      "key": "game_adventure",
+      "name_pt_BR": "Aventura"
+    },
+    {
+      "key": "game_arcade",
+      "name_pt_BR": "Arcade"
+    },
+    {
+      "key": "game_board",
+      "name_pt_BR": "Tabuleiro"
+    },
+    {
+      "key": "game_card",
+      "name_pt_BR": "Cartas"
+    },
+    {
+      "key": "game_casino",
+      "name_pt_BR": "Cassino"
+    },
+    {
+      "key": "game_casual",
+      "name_pt_BR": "Casual"
+    },
+    {
+      "key": "game_educational",
+      "name_pt_BR": "Educativo"
+    },
+    {
+      "key": "game_music",
+      "name_pt_BR": "Musical"
+    },
+    {
+      "key": "game_puzzle",
+      "name_pt_BR": "Puzzle"
+    },
+    {
+      "key": "game_racing",
+      "name_pt_BR": "Corrida"
+    },
+    {
+      "key": "game_role_playing",
+      "name_pt_BR": "RPG"
+    },
+    {
+      "key": "game_simulation",
+      "name_pt_BR": "Simulação"
+    },
+    {
+      "key": "game_sports",
+      "name_pt_BR": "Esportes"
+    },
+    {
+      "key": "game_strategy",
+      "name_pt_BR": "Estratégia"
+    },
+    {
+      "key": "game_trivia",
+      "name_pt_BR": "Trivia"
+    },
+    {
+      "key": "game_word",
+      "name_pt_BR": "Palavras"
+    },
+    {
+      "key": "system",
+      "name_pt_BR": "Sistema"
+    },
+    {
+      "key": "developer",
+      "name_pt_BR": "Desenvolvedor"
+    },
+    {
+      "key": "security_vpn",
+      "name_pt_BR": "Segurança e VPN"
+    },
+    {
+      "key": "banking_payments",
+      "name_pt_BR": "Banco e Pagamentos"
+    },
+    {
+      "key": "transport",
+      "name_pt_BR": "Transporte"
+    },
+    {
+      "key": "calculators",
+      "name_pt_BR": "Calculadoras"
+    },
+    {
+      "key": "clock_alarms",
+      "name_pt_BR": "Relógio e Alarmes"
+    },
+    {
+      "key": "calendar_agenda",
+      "name_pt_BR": "Calendário e Agenda"
+    },
+    {
+      "key": "notes_tasks",
+      "name_pt_BR": "Notas e Tarefas"
+    },
+    {
+      "key": "flashlight",
+      "name_pt_BR": "Lanterna"
+    },
+    {
+      "key": "scanner_docs",
+      "name_pt_BR": "Scanner e Documentos"
+    },
+    {
+      "key": "pdf_office",
+      "name_pt_BR": "PDF e Office"
+    },
+    {
+      "key": "file_manager",
+      "name_pt_BR": "Gerenciador de Arquivos"
+    },
+    {
+      "key": "keyboards_input",
+      "name_pt_BR": "Teclados e Entrada"
+    },
+    {
+      "key": "cleaning_optimization",
+      "name_pt_BR": "Limpeza e Otimização"
+    },
+    {
+      "key": "backup_cloud",
+      "name_pt_BR": "Backup e Nuvem"
+    },
+    {
+      "key": "converters_units",
+      "name_pt_BR": "Conversores e Unidades"
+    },
+    {
+      "key": "translators_dict",
+      "name_pt_BR": "Tradutores e Dicionários"
+    },
+    {
+      "key": "qr_barcode",
+      "name_pt_BR": "QR e Código de Barras"
+    },
+    {
+      "key": "remote_smarthome",
+      "name_pt_BR": "Controle Remoto e Casa Inteligente"
+    },
+    {
+      "key": "security_cameras",
+      "name_pt_BR": "Câmeras de Segurança"
+    },
+    {
+      "key": "battery_system",
+      "name_pt_BR": "Bateria e Sistema"
+    },
+    {
+      "key": "launchers_themes",
+      "name_pt_BR": "Launchers e Temas"
+    },
+    {
+      "key": "browsers",
+      "name_pt_BR": "Navegadores"
+    },
+    {
+      "key": "email",
+      "name_pt_BR": "E-mail"
+    },
+    {
+      "key": "recorders",
+      "name_pt_BR": "Gravadores de Tela e Voz"
+    },
+    {
+      "key": "file_transfer",
+      "name_pt_BR": "Transferência de Arquivos"
+    },
+    {
+      "key": "password_managers",
+      "name_pt_BR": "Gerenciadores de Senhas"
+    },
+    {
+      "key": "antivirus_privacy",
+      "name_pt_BR": "Antivírus e Privacidade"
+    },
+    {
+      "key": "radio_sdr",
+      "name_pt_BR": "Rádio, SDR e Radioamador"
+    },
+    {
+      "key": "maker_3d_print",
+      "name_pt_BR": "Impressão 3D e Maker"
+    },
+    {
+      "key": "printing",
+      "name_pt_BR": "Impressão e Etiquetas"
+    },
+    {
+      "key": "sensors_compass",
+      "name_pt_BR": "Sensores e Bússola"
+    },
+    {
+      "key": "electronics",
+      "name_pt_BR": "Eletrônica e Circuitos"
+    },
+    {
+      "key": "network_wifi",
+      "name_pt_BR": "Redes e Wi-Fi"
+    },
+    {
+      "key": "remote_desktop",
+      "name_pt_BR": "Acesso Remoto"
+    },
+    {
+      "key": "downloaders",
+      "name_pt_BR": "Downloads e Torrent"
+    },
+    {
+      "key": "nfc_tags",
+      "name_pt_BR": "NFC e Etiquetas"
+    },
+    {
+      "key": "usb_storage",
+      "name_pt_BR": "USB e Armazenamento"
+    },
+    {
+      "key": "text_speech",
+      "name_pt_BR": "Texto e Voz"
+    },
+    {
+      "key": "app_stores",
+      "name_pt_BR": "Lojas de Apps"
+    },
+    {
+      "key": "investments",
+      "name_pt_BR": "Investimentos"
+    },
+    {
+      "key": "crypto",
+      "name_pt_BR": "Criptomoedas"
+    },
+    {
+      "key": "taxes_invoices",
+      "name_pt_BR": "Impostos e Nota Fiscal"
+    },
+    {
+      "key": "wallets_payments",
+      "name_pt_BR": "Carteiras e Pagamentos"
+    },
+    {
+      "key": "government",
+      "name_pt_BR": "Governo e Serviços Públicos"
+    },
+    {
+      "key": "delivery",
+      "name_pt_BR": "Delivery"
+    },
+    {
+      "key": "coupons_deals",
+      "name_pt_BR": "Cupons e Ofertas"
+    },
+    {
+      "key": "real_estate",
+      "name_pt_BR": "Imóveis"
+    },
+    {
+      "key": "jobs",
+      "name_pt_BR": "Empregos"
+    },
+    {
+      "key": "crafts_embroidery",
+      "name_pt_BR": "Artesanato e Bordado"
+    },
+    {
+      "key": "photo_editing",
+      "name_pt_BR": "Edição de Fotos"
+    },
+    {
+      "key": "wallpapers",
+      "name_pt_BR": "Papéis de Parede"
+    },
+    {
+      "key": "ebook_readers",
+      "name_pt_BR": "Leitores de E-book"
+    },
+    {
+      "key": "podcasts",
+      "name_pt_BR": "Podcasts"
+    },
+    {
+      "key": "streaming",
+      "name_pt_BR": "Streaming"
+    },
+    {
+      "key": "languages_courses",
+      "name_pt_BR": "Idiomas e Cursos"
+    },
+    {
+      "key": "astronomy",
+      "name_pt_BR": "Astronomia"
+    },
+    {
+      "key": "nature_id",
+      "name_pt_BR": "Natureza e Identificação"
+    },
+    {
+      "key": "collecting",
+      "name_pt_BR": "Colecionismo"
+    },
+    {
+      "key": "aviation_marine",
+      "name_pt_BR": "Aviação e Náutica"
+    },
+    {
+      "key": "telecom",
+      "name_pt_BR": "Operadoras e Telefonia"
+    },
+    {
+      "key": "ai_assistants",
+      "name_pt_BR": "IA e Assistentes"
+    },
+    {
+      "key": "religion",
+      "name_pt_BR": "Religião e Espiritualidade"
+    },
+    {
+      "key": "outdoors_gps",
+      "name_pt_BR": "Trilhas e GPS"
+    },
+    {
+      "key": "teaching_tools",
+      "name_pt_BR": "Ferramentas do Professor"
+    },
+    {
+      "key": "science_engineering",
+      "name_pt_BR": "Ciência e Engenharia"
+    },
+    {
+      "key": "modeling_3d",
+      "name_pt_BR": "3D e Modelagem"
+    },
+    {
+      "key": "drawing",
+      "name_pt_BR": "Desenho e Pintura"
+    },
+    {
+      "key": "other",
+      "name_pt_BR": "Outros"
+    },
+    {
+      "key": "uncategorized",
+      "name_pt_BR": "Sem categoria"
+    }
+  ]
+}

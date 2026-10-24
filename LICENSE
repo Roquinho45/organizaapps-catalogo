@@ -1,0 +1,44 @@
+CC0 1.0 Universal — Dedicação ao Domínio Público
+================================================
+
+O conteúdo deste repositório — `category_rules.json`, `categories.json` e a
+documentação que os acompanha — é dedicado ao **domínio público** nos termos da
+Creative Commons CC0 1.0 Universal.
+
+Na medida do permitido por lei, quem contribuiu com esta obra renunciou a todos
+os direitos autorais e direitos conexos sobre ela em todo o mundo, incluindo
+direitos de base de dados.
+
+Você pode copiar, modificar, distribuir e usar a obra, **inclusive para fins
+comerciais**, sem pedir permissão e sem precisar dar crédito.
+
+A obra é oferecida como está, sem garantia de nenhum tipo.
+
+
+Texto legal completo
+--------------------
+
+O texto jurídico integral e autoritativo da CC0 1.0 está em:
+
+    https://creativecommons.org/publicdomain/zero/1.0/legalcode
+    https://creativecommons.org/publicdomain/zero/1.0/legalcode.pt
+
+Este arquivo é a declaração de dedicação; o texto acima incorpora o código
+legal por referência.
+
+> **Nota para quem for publicar o repositório:** se você quiser o código legal
+> completo dentro do arquivo (é o que a Creative Commons recomenda, e o que o
+> GitHub usa para detectar a licença automaticamente), copie o texto de
+> `legalcode` do endereço acima e cole abaixo desta linha. Eu deixei a
+> referência em vez de transcrever o texto de cor, porque um erro de
+> transcrição num documento jurídico é o tipo de defeito que ninguém revisa.
+
+
+Sobre marcas
+------------
+
+A CC0 não renuncia a direitos de **marca** nem de **patente**. Os nomes de
+pacote listados no catálogo identificam aplicativos de terceiros e pertencem
+aos seus respectivos donos. Listar um pacote aqui é uma afirmação factual sobre
+a que categoria ele pertence — não é endosso, associação nem autorização de
+uso de marca.

@@ -1,0 +1,3657 @@
+{
+  "formatVersion": 1,
+  "catalog": "organizaapps-catalogo",
+  "updatedAt": "2026-10-24",
+  "packageCount": 1607,
+  "categoryCount": 95,
+  "license": "CC0-1.0",
+  "byCategory": {
+    "ai_assistants": [
+      "com.ApexCreator.localaiapp",
+      "com.anthropic.claude",
+      "com.druk.lmplayground",
+      "com.foss.aihub",
+      "com.inspiredandroid.kai",
+      "com.mobilefork.hermesagent",
+      "com.pocketpalai",
+      "com.reescrever.textos.enzipe",
+      "dev.chungjungsoo.gptmobile",
+      "org.woheller69.gptassist"
+    ],
+    "antivirus_privacy": [
+      "com.trianguloy.urlchecker",
+      "org.adaway"
+    ],
+    "app_stores": [
+      "com.aurora.store",
+      "org.fdroid.fdroid"
+    ],
+    "art_design": [
+      "com.adobe.creativeapps.draw",
+      "com.adobe.creativeapps.sketch",
+      "com.autodesk.sketchbook",
+      "com.behance.behance",
+      "com.brakefield.painter",
+      "com.brother.ph.mobile.craftsewing",
+      "com.converta.costuraebordado",
+      "com.drawstitch.embroiderylink",
+      "com.embcart",
+      "com.embroiderydz.embroidery_viewer",
+      "com.figma.mirror",
+      "com.howto.handembroidery",
+      "com.ibispaint.x",
+      "com.infinite.painter",
+      "com.medibang.android.paint.tablet",
+      "com.mobincube.embroidery",
+      "com.mysewnet.embroidery",
+      "com.mysewnet.husqvarnaviking.embroiderymonitor",
+      "com.mysewnet.husqvarnaviking.projectreader",
+      "com.mysewnet.pfaff.projectreader",
+      "com.pixilart.pixilart",
+      "com.qfi.tilemaker",
+      "com.sec.penup",
+      "com.senlainc.stitchapp",
+      "com.singer.sewingassistant",
+      "com.sketchbook",
+      "com.sonymobile.sketch",
+      "com.tayasui.sketches",
+      "com.thangs.mobile",
+      "fr.moblo",
+      "jp.co.celsys.clipstudiopaint.googleplay",
+      "jp.co.janome.acuedit",
+      "jp.co.janome.apps3157C",
+      "org.witness.sscphase1",
+      "pl.apelgrim.colormixer"
+    ],
+    "auto_vehicles": [
+      "app.ferrovelho.twa",
+      "br.com.appfactory.movida",
+      "br.com.awto.client",
+      "br.com.carango.pro",
+      "br.com.drivvo",
+      "br.com.hinovamobile.visto",
+      "br.com.icarros.app",
+      "br.com.ipiranga.abastece",
+      "br.com.webmotors.app",
+      "br.com.zuldigital",
+      "br.gov.serpro.cdt",
+      "br.gov.serpro.cnhe",
+      "br.gov.sp.detran.consultas",
+      "com.autotrader.android",
+      "com.cars.android",
+      "com.drivvo.app",
+      "com.google.android.projection.gearhead",
+      "com.helpcars.app",
+      "com.ivini.carly2",
+      "com.kajda.fuelio",
+      "com.localiza.mobile",
+      "com.ovz.carscanner",
+      "com.rentcars.rentcarscom",
+      "hands.android.webmotors",
+      "net.easyconn.carman.wws",
+      "org.prowl.torque"
+    ],
+    "backup_cloud": [
+      "com.box.android",
+      "com.dropbox.android",
+      "com.forshared.files",
+      "com.google.android.apps.docs",
+      "com.google.android.apps.drive",
+      "com.google.android.apps.restore",
+      "com.microsoft.skydrive",
+      "com.owncloud.android",
+      "com.pcloud.pcloud",
+      "com.sec.android.easyMover",
+      "com.synology.DSfinder",
+      "com.synology.activeinsight",
+      "mega.privacy.android.app",
+      "nextcloud.client"
+    ],
+    "banking_payments": [
+      "br.com.bancobmg.bancodigital",
+      "br.com.bancodobrasil.investimentos",
+      "br.com.bancopan.bancopan",
+      "br.com.bancosafra.app",
+      "br.com.banrisul.banrisul",
+      "br.com.bb.android",
+      "br.com.brasilcard.app_banco_digital",
+      "br.com.gabba.Caixa",
+      "br.com.intermedium",
+      "br.com.neon",
+      "br.com.original.bank",
+      "br.com.sicredi.android",
+      "br.com.stone.payments",
+      "br.com.uol.ps.myconta",
+      "br.com.willbank",
+      "br.com.xp.carteira",
+      "br.gov.caixa.fgts.trabalhador",
+      "br.gov.caixa.tem",
+      "co.mona.android",
+      "com.binance.dev",
+      "com.bitso.android",
+      "com.bradesco",
+      "com.bradesco.next",
+      "com.btg.pactual.banking",
+      "com.btg.pactual.digital",
+      "com.c6bank.app",
+      "com.coinbase.android",
+      "com.getnet.mobile",
+      "com.google.android.apps.walletnfcrel",
+      "com.itau",
+      "com.itau.empresas",
+      "com.mercadopago.wallet",
+      "com.nu.production",
+      "com.pagseguro.vendas",
+      "com.paypal.android.p2pmobile",
+      "com.picpay",
+      "com.revolut.revolut",
+      "com.robinhood.android",
+      "com.samsung.android.spay",
+      "com.samsung.android.spaylite",
+      "com.santander.app",
+      "com.sumup.merchant",
+      "com.transferwise.android",
+      "com.wealthsimple.trade",
+      "de.number26.android",
+      "piuk.blockchain.android"
+    ],
+    "battery_system": [
+      "com.cpuid.cpu_z",
+      "com.finalwire.aida64",
+      "com.flasskamp.energize",
+      "com.gamebench.metricscompanion",
+      "com.gsamlabs.bbm"
+    ],
+    "beauty": [
+      "br.com.belezanaweb",
+      "br.com.grupoboticario.meuboticario",
+      "br.com.natura.consultoria",
+      "com.amg.cosmeticanaturalia",
+      "com.perfectcorp.ycn",
+      "com.sephora",
+      "com.ulta.android"
+    ],
+    "books_reference": [
+      "br.com.devbrasil.biblia",
+      "br.com.editoramelhoramentos.michaelis",
+      "br.com.estantevirtual",
+      "com.amazon.kindle",
+      "com.aplications.adimov.suviveres",
+      "com.app.openlib",
+      "com.artifex.mupdf.mini.app",
+      "com.audible.application.kindle",
+      "com.babla.app",
+      "com.bible.nvi",
+      "com.biblereader.app",
+      "com.bibliotecavirtual.bvpearson",
+      "com.colnect.stamps_catalog.world",
+      "com.dictionary.android",
+      "com.dictionary.immunology.virology.microbiology.immunologyvirology",
+      "com.do_apps.catalog_456",
+      "com.flyersoft.moonreaderp",
+      "com.foobnix.pdf.reader",
+      "com.gbeatty.arxiv",
+      "com.glosbe.dict",
+      "com.goodreads",
+      "com.google.android.apps.books",
+      "com.handylibrary.main",
+      "com.internet.archive.org",
+      "com.kobobooks.android",
+      "com.linguee.linguee",
+      "com.manualslib.app",
+      "com.msd.professionalPortugese",
+      "com.nishiyama.etymologyexplorer",
+      "com.obreey.reader",
+      "com.offlinedictionary.etimology",
+      "com.positron_it.zlib",
+      "com.priberam.dicionario",
+      "com.quran.labs.androidquran",
+      "com.rhymit.sinonimos",
+      "com.scribd.app.reader0",
+      "com.setegraus.dicio",
+      "com.sirma.mobile.bible.android",
+      "com.storytel.base.app",
+      "com.wikipedia.app",
+      "com.wordreference.wr",
+      "com.worldlibrary.booklibrary",
+      "de.reimardoeffinger.quickdic",
+      "de.yass.x_cuneiformdictionary",
+      "hk.words.wordshk",
+      "kjv.bible.kingjamesbible",
+      "net.casimirlab.frigoligo",
+      "org.aossie.dictionary",
+      "org.geometerplus.zlibrary.ui.android",
+      "org.kiwix.kiwixmobile",
+      "org.ligi.survivalmanual",
+      "org.readera",
+      "universe.constellation.orion.viewer",
+      "wp.wpbeta"
+    ],
+    "business": [
+      "br.com.catho.app",
+      "br.com.clicksign",
+      "br.com.omie.app",
+      "com.atlassian.android.jira.core",
+      "com.codelv.inventory",
+      "com.contaazul.app",
+      "com.docusign.ink",
+      "com.facebook.adsmanager",
+      "com.freshworks.freshsales",
+      "com.glassdoor.app",
+      "com.google.android.apps.adwords",
+      "com.google.android.apps.giant",
+      "com.hubspot.android",
+      "com.indeed.android.jobsearch",
+      "com.infojobs.app",
+      "com.intuit.quickbooks",
+      "com.maiko.scanpet",
+      "com.maiko.xscanpet",
+      "com.microsoft.office.lync15",
+      "com.monday.monday",
+      "com.pipedrive.app",
+      "com.salesforce.chatter",
+      "com.service.reports",
+      "com.shopify.mobile",
+      "com.squareup",
+      "com.tharunbirla.fetchit",
+      "com.vagas.app",
+      "com.xero.touch",
+      "com.ziprecruiter.android.release",
+      "com.zoho.crm",
+      "marcaria.com.marcaria",
+      "rs.in.dbase.downloader"
+    ],
+    "calculators": [
+      "appinventor.ai_plumtreeinbackyard.SoapCal_Lite",
+      "com.emmetgray.wrpn",
+      "com.google.android.calculator",
+      "com.sec.android.app.popupcalculator",
+      "net.alexbarry.calc_android",
+      "net.youapps.calcyou"
+    ],
+    "calendar_agenda": [
+      "com.google.android.calendar",
+      "com.microsoft.office.outlook.calendar",
+      "com.samsung.android.calendar"
+    ],
+    "cleaning_optimization": [
+      "com.a0soft.gphone.app2sd",
+      "com.buak.Link2SD",
+      "com.duplicatefilefixer",
+      "com.samsung.android.lool",
+      "imoblife.toolbox.full.prokey"
+    ],
+    "clock_alarms": [
+      "askanimus.arbeitszeiterfassung2",
+      "com.fruit4droid.cronosurf",
+      "com.fruit4droid.cronosurf.pro",
+      "com.google.android.deskclock",
+      "com.razeeman.util.simpletimetracker",
+      "com.sec.android.app.clockpackage",
+      "com.watchaccuracymeter.app",
+      "de.jepfa.bdt"
+    ],
+    "collecting": [
+      "calcculatorsapps.net.enciclopedias.worldstamps",
+      "com.coinidentifyer.ai",
+      "com.weipaitang.coin",
+      "ru.vlcoins.catalog"
+    ],
+    "comics": [
+      "com.dccomics.comics",
+      "com.iconology.comics",
+      "com.kakao.page",
+      "com.lezhin.comics",
+      "com.mangarock.android.titan",
+      "com.marvel.comics",
+      "com.naver.webtoon",
+      "com.tachiyomi.app",
+      "com.tapas.tapastic",
+      "com.tappytoon.app",
+      "eu.kanade.tachiyomi",
+      "xyz.jmir.tachiyomi.mi"
+    ],
+    "communication": [
+      "acr.browser.lightning",
+      "app.kryfo",
+      "ch.threema.app",
+      "com.Slack",
+      "com.UCMobile.intl",
+      "com.android.chrome",
+      "com.brave.browser",
+      "com.cisco.webex.meetings",
+      "com.cloudmosa.puffinFree",
+      "com.deepseek.chat",
+      "com.discord",
+      "com.duckduckgo.mobile.android",
+      "com.enflick.android.TextNow",
+      "com.facebook.mlite",
+      "com.facebook.orca",
+      "com.fsck.k9",
+      "com.google.android.apps.bard",
+      "com.google.android.apps.meetings",
+      "com.google.android.apps.messaging",
+      "com.google.android.apps.tachyon",
+      "com.google.android.contacts",
+      "com.google.android.dialer",
+      "com.google.android.gm",
+      "com.groupme.android",
+      "com.imo.android.imoim",
+      "com.kakao.talk",
+      "com.kiwibrowser.browser",
+      "com.lemi.callsautoresponderpro",
+      "com.meshkachoutility",
+      "com.microsoft.emmx",
+      "com.microsoft.office.outlook",
+      "com.microsoft.teams",
+      "com.opera.browser",
+      "com.opera.gx",
+      "com.opera.mini.native",
+      "com.samsung.android.app.contacts",
+      "com.samsung.android.dialer",
+      "com.samsung.android.messaging",
+      "com.sec.android.app.sbrowser",
+      "com.skype.raider",
+      "com.tencent.mm",
+      "com.truecaller",
+      "com.tutpro.baresip",
+      "com.viber.voip",
+      "com.vivaldi.browser",
+      "com.whatsapp",
+      "com.whatsapp.w4b",
+      "com.wire",
+      "com.yandex.browser",
+      "com.zing.zalo",
+      "d.d.meshenger",
+      "im.vector.app",
+      "info.plateaukao.einkbro",
+      "jp.naver.line.android",
+      "kik.android",
+      "mark.via.gp",
+      "me.bluemail.mail",
+      "net.thunderbird.android",
+      "network.loki.messenger",
+      "org.bromite.bromite",
+      "org.jitsi.meet",
+      "org.mozilla.firefox",
+      "org.mozilla.focus",
+      "org.telegram.messenger",
+      "org.telegram.messenger.web",
+      "org.thoughtcrime.securesms",
+      "org.thunderdog.challegram",
+      "org.torproject.torbrowser",
+      "spam.blocker",
+      "us.zoom.videomeetings"
+    ],
+    "crafts_embroidery": [
+      "com.tacony.babylock.positioning",
+      "com.zenghsing.EZCreator",
+      "com.zenghsing.MyPatterns"
+    ],
+    "dating": [
+      "br.com.parperfeito.parperfeito",
+      "co.hinge.app",
+      "com.badoo.mobile",
+      "com.bumble.app",
+      "com.ftw_and_co.happn",
+      "com.grindrapp.android",
+      "com.lovoo.android",
+      "com.okcupid.okcupid",
+      "com.pof.android",
+      "com.tantan.app",
+      "com.tinder"
+    ],
+    "developer": [
+      "app.pwhs.universalinstaller",
+      "cm.aptoide.pt",
+      "cn.rbc.termuc",
+      "com.apk.editor",
+      "com.berdik.letmedowngrade",
+      "com.ddm.iptools",
+      "com.draco.ladb",
+      "com.duy.compiler.javanide",
+      "com.emanuelef.remote_capture",
+      "com.foxdebug.acode",
+      "com.github.android",
+      "com.google.android.apps.playconsole",
+      "com.inspiredandroid.linuxcommandbibliotheca",
+      "com.itsaky.androidide",
+      "com.matoski.adbm",
+      "com.nolanlawson.logcat",
+      "com.offsec.nethunter.kex",
+      "com.overlook.android.fing",
+      "com.pluscubed.matlog",
+      "com.rk.xededitor",
+      "com.server.auditor.ssh.client",
+      "com.sketchware.remod",
+      "com.sonelli.juicessh",
+      "com.termux",
+      "com.termux.api",
+      "com.termux.styling",
+      "com.termux.widget",
+      "com.termux.x11",
+      "com.topjohnwu.magisk",
+      "de.syss.MifareClassicTool",
+      "eu.chainfire.supersu",
+      "exa.lnx.a",
+      "host.exp.exponent",
+      "in.arjsna.permissionchecker",
+      "in.sunilpaulmathew.izzyondroid",
+      "io.makeroid.companion",
+      "io.shodan.app",
+      "mobi.sketchware",
+      "moe.shizuku.privileged.api",
+      "net.stargw.applist",
+      "org.connectbot",
+      "ru.meefik.linuxdeploy"
+    ],
+    "downloaders": [
+      "com.biglybt.android.client",
+      "com.dv.adm",
+      "com.gianlu.aria2app",
+      "com.tachibana.downloader",
+      "devian.tubemate.v3",
+      "in.gopalakrishnareddy.torrent",
+      "org.proninyaroslav.libretorrent"
+    ],
+    "ebook_readers": [
+      "com.scribd.app.reader0.docs"
+    ],
+    "education": [
+      "br.com.descomplica.app",
+      "br.com.granconcursos",
+      "br.com.plurall",
+      "br.com.stoodi",
+      "br.net.btco.soroban",
+      "com.PixelMiller.UnrealChemist",
+      "com.anki.android",
+      "com.apps.ips.TeacherAidePro2",
+      "com.apps.ips.randomstudent2trial",
+      "com.apps.ips.randomstudent3",
+      "com.apps.ips.rubricscorer2",
+      "com.apps.ips.teacheraidepro3",
+      "com.babbel.mobile.android.en",
+      "com.blackboard.android.bbstudent",
+      "com.blueapps.egyptianwriter",
+      "com.brainly",
+      "com.busuu.android.enc",
+      "com.byjus.thelearningapp",
+      "com.cakeenglish.cake",
+      "com.cax.pmk.ext",
+      "com.check.plagiarism",
+      "com.chemistry.admin.chemistrylab",
+      "com.classcalc.classcalc",
+      "com.clearstackapps.breadmath",
+      "com.coursera.android",
+      "com.dafftin.android.moon_phase",
+      "com.duolingo",
+      "com.eanema.graph89",
+      "com.enki.insights",
+      "com.estrategiaconcursos.app",
+      "com.freecodecamp.app",
+      "com.geekie.app",
+      "com.getmimo",
+      "com.glority.picturemushroom",
+      "com.google.android.apps.classroom",
+      "com.google.android.apps.readalong",
+      "com.groundspeak.geocaching.intro",
+      "com.hexbit.rutmath",
+      "com.historyisfun.mesopotamiaancient",
+      "com.ichi2.anki",
+      "com.instructure.candroid",
+      "com.khanacademy.android",
+      "com.lingodeer",
+      "com.linkedin.android.learning",
+      "com.memrise.android.memrisecompanion",
+      "com.microblink.photomath",
+      "com.noctuasoftware.stellarium_free",
+      "com.photomath.app",
+      "com.plantparentai.app",
+      "com.programiz.compiler",
+      "com.qconcursos.app",
+      "com.quizlet.quizletandroid",
+      "com.rosettastone.mobile.CoursePlayer",
+      "com.sesisenai.app",
+      "com.skillshare.Skillshare",
+      "com.sololearn",
+      "com.springwalk.lingotube",
+      "com.symbolab.symbolablibrary",
+      "com.tang.etest.e_test",
+      "com.theanilpaudel.allformulas",
+      "com.toppr.android",
+      "com.udemy.android",
+      "com.ultramegatech.ey",
+      "com.wolfram.android.alpha",
+      "com.zima.mobileobservatorypro",
+      "completai.mobile.v3",
+      "de.mediaz.mxapp.hpbgeode",
+      "de.rwth_aachen.phyphox",
+      "eu.nohus.classtime",
+      "jp.co.casio.fx.ClassPad2",
+      "jp.co.casio.fx.fxCG500",
+      "karrar.sumerian.android",
+      "krillefear.funwithkanji",
+      "m4.enginary",
+      "org.edx.mobile",
+      "org.emulator.forty.eight",
+      "org.geogebra.android",
+      "org.geogebra.android.geometry",
+      "org.geogebra.android.scicalc",
+      "org.geogebra.math.solver",
+      "org.kaqui",
+      "org.plantnet",
+      "org.tengel.planisphere",
+      "org.wikipedia",
+      "org.woheller69.whobird",
+      "simbio.se.nheengare",
+      "ua.syt0r.kanji.fdroid",
+      "us.nobarriers.elsa"
+    ],
+    "electronics": [
+      "com.DCZT.FrequencyGenerator",
+      "com.boedec.hoel.frequencygenerator",
+      "com.everycircuit.free",
+      "com.fallenbug.circuitsimulator",
+      "com.finestandroid.soundgenerator",
+      "com.frequencygenerator.soundgenerator",
+      "com.luxdelux.frequencygenerator",
+      "com.macdom.ble.blescanner",
+      "com.saulawa.anas.electronics_tollbox",
+      "no.nordicsemi.android.mcp"
+    ],
+    "email": [
+      "com.readdle.spark",
+      "org.kman.AquaMail"
+    ],
+    "entertainment": [
+      "br.com.ingresso.cinemas",
+      "br.com.sympla.app",
+      "com.bilibili.app.in",
+      "com.cinemark",
+      "com.cinemark.app",
+      "com.crunchyroll.manga",
+      "com.eventbrite.attendee",
+      "com.fandom.app",
+      "com.giphy.messenger",
+      "com.google.android.videos",
+      "com.imdb.mobile",
+      "com.ingresso.cinemas",
+      "com.kinoplex.app",
+      "com.letterboxd.app",
+      "com.lr_soft.windows98simulator",
+      "com.naver.linewebtoon",
+      "com.roku.remote",
+      "com.rottentomatoes.appandroid",
+      "com.samsung.smartviewad",
+      "com.spotify.s4a",
+      "com.tenor.android.app",
+      "com.ticketmaster.mobile.android.na",
+      "com.wattpad",
+      "com.webtoon.app",
+      "com.whizical.kalplus",
+      "com.zubieta.craze",
+      "se.lottoland.app",
+      "tv.danmaku.bili"
+    ],
+    "events": [
+      "com.eventbrite.organizer"
+    ],
+    "file_manager": [
+      "com.alphainventor.filemanager",
+      "com.estrongs.android.pop",
+      "com.ghostsq.commander",
+      "com.google.android.apps.nbu.files",
+      "com.lonelycatgames.Xplore",
+      "com.mateusrodcosta.apps.share2storage",
+      "com.mixplorer",
+      "com.rarlab.rar",
+      "com.rubex.nfile",
+      "com.sec.android.app.myfiles",
+      "com.simplemobiletools.filemanager.pro",
+      "com.synology.DSfile",
+      "com.w2sv.filenavigator",
+      "me.zhanghai.android.files",
+      "nextapp.fx"
+    ],
+    "file_transfer": [
+      "com.idea.share",
+      "slowscript.warpinator"
+    ],
+    "finance": [
+      "br.com.jr3",
+      "br.com.limpanome",
+      "br.com.mobills.views",
+      "br.com.organizze",
+      "br.com.serasaexperian.consumidor",
+      "br.gov.economia.receita.pessoafisica",
+      "br.gov.serpro.meuimpostoderenda",
+      "com.boavistaservicos.consumidor",
+      "com.google.android.apps.subscriptions.red",
+      "com.ifs.banking.fiid1369",
+      "com.mint",
+      "com.monefy.app.lite",
+      "com.ntgclarity.yourmoney",
+      "com.rammigsoftware.bluecoins",
+      "com.serasa.consumidor",
+      "org.gnucash.android",
+      "org.totschnig.myexpenses"
+    ],
+    "food_drink": [
+      "br.com.brainweb.ifood",
+      "br.com.digipronto.ChinaInBox",
+      "br.com.mcdonalds.mobileapp",
+      "br.com.panelinha",
+      "br.com.subway.app",
+      "br.com.tudogostoso",
+      "com.allrecipes.spinner.free",
+      "com.apstem.veganizeit",
+      "com.burgerking.app.br",
+      "com.cookpad.android.activities",
+      "com.dd.doordash",
+      "com.deliveroo.orderapp",
+      "com.desrotulando.app",
+      "com.dominospizza",
+      "com.flourwise",
+      "com.giraffas.app",
+      "com.global.foodpanda.android",
+      "com.grubhub.android",
+      "com.habibs.app",
+      "com.hellofresh.androidapp",
+      "com.htcardone.pantry",
+      "com.matttoni.minhadespensa",
+      "com.mcdonalds.mobileapp",
+      "com.outback.app",
+      "com.rappi.brown",
+      "com.sidechef.sidechef",
+      "com.soapmakingfriend.soapmf",
+      "com.starbucks.mobilecard",
+      "com.supercook.app",
+      "com.tabelog.android",
+      "com.tombursch.kitchenowl",
+      "com.ubercab.eats",
+      "com.yelp.android",
+      "com.zomato.android",
+      "com.zonarerealista.app",
+      "com.zorrosoft.android.ingred",
+      "habibs.alphacode.com.br"
+    ],
+    "game_adventure": [
+      "com.kabam.marvelbattle"
+    ],
+    "game_arcade": [
+      "com.cmplay.tiles2",
+      "com.voodoo.helixjump",
+      "com.voodoo.holeio"
+    ],
+    "game_board": [
+      "com.chess",
+      "com.exozet.android.catan",
+      "com.marmalade.monopoly",
+      "org.lichess.mobileapp"
+    ],
+    "game_card": [
+      "br.com.megajogos.truco",
+      "com.cdprojektred.gwent",
+      "com.mobilityware.freecell",
+      "com.mobilityware.spider",
+      "com.valvesoftware.underlords"
+    ],
+    "game_casino": [
+      "com.doubledowninteractive.DDCasino",
+      "com.huuuge.casino.slots"
+    ],
+    "game_casual": [
+      "com.outfit7.talkingtom",
+      "com.playgendary.kickthebuddy",
+      "com.playgendary.tanks"
+    ],
+    "game_educational": [
+      "com.duolingo.abc",
+      "com.khanacademy.kids",
+      "com.originator.abcmouse",
+      "com.sagosago.World.googleplay",
+      "org.pbskids.gamesapp"
+    ],
+    "game_puzzle": [
+      "com.androbaby.game2048",
+      "com.bigduckgames.flow",
+      "com.bigduckgames.flowbridges",
+      "com.bitmango.go.wordcookies",
+      "com.estoty.game2048",
+      "com.king.candycrushjellysaga",
+      "com.kiragames.unblockme",
+      "com.n3twork.tetris",
+      "com.nerdyoctopus.gamedots",
+      "com.pixel.art.coloring.color.number",
+      "com.zeptolab.ctr.ads",
+      "com.zeptolab.cuttherope.free"
+    ],
+    "game_racing": [
+      "com.fingersoft.hcr2",
+      "com.fingersoft.hillclimb",
+      "com.gameloft.android.ANMP.GloftA8HM",
+      "com.hutchgames.topdrives",
+      "com.skgames.trafficrider",
+      "com.vectorunit.purple.googleplay",
+      "com.vectorunit.red.googleplay",
+      "com.vectorunit.yellow.googleplay"
+    ],
+    "game_simulation": [
+      "com.ea.gp.simsfreeplay",
+      "com.sandboxol.blockymods",
+      "com.supercent.pizzaready",
+      "com.tocaboca.tocakitchen2",
+      "com.tocaboca.tocalifeworld"
+    ],
+    "game_sports": [
+      "com.firsttouchgames.dls7",
+      "com.firsttouchgames.smp",
+      "com.miniclip.basketballstars",
+      "com.miniclip.soccerstars"
+    ],
+    "game_strategy": [
+      "com.ironhidegames.android.kingdomrush",
+      "com.ironhidegames.android.kingdomrushfrontiers",
+      "com.kingsgroup.ss"
+    ],
+    "game_trivia": [
+      "com.etermax.preguntados.lite",
+      "com.etermax.triviacrack"
+    ],
+    "game_word": [
+      "com.fugo.wow",
+      "com.peoplefun.wordcross",
+      "com.playsimple.wordtrip",
+      "com.zynga.scramble"
+    ],
+    "games": [
+      "air.com.playtika.slotomania",
+      "com.FDGEntertainment.redball4.gp",
+      "com.HoYoverse.hkrpgoversea",
+      "com.YoStarEN.Arknights",
+      "com.activision.callofduty.shooter",
+      "com.and.games505.TerrariaPaid",
+      "com.aniplex.fategrandorder.en",
+      "com.axlebolt.standoff2",
+      "com.bandainamcoent.dblegends_ww",
+      "com.bandainamcoent.opbrww",
+      "com.blizzard.diablo.immortal",
+      "com.blizzard.wtcg.hearthstone",
+      "com.chucklefish.stardewvalley",
+      "com.devsisters.ck",
+      "com.dreamgames.royalmatch",
+      "com.dts.freefiremax",
+      "com.dts.freefireth",
+      "com.dxx.firenow",
+      "com.ea.game.pvz2_row",
+      "com.ea.game.simcitymobile_row",
+      "com.ea.games.nfs14_row",
+      "com.ea.games.r3_row",
+      "com.ea.gp.apexlegendsmobilefps",
+      "com.ea.gp.fifamobile",
+      "com.easybrain.nonogram",
+      "com.easybrain.sudoku.android",
+      "com.epicgames.fortnite",
+      "com.epicgames.portal",
+      "com.feralinteractive.gridautosport",
+      "com.funplus.kingofavalon",
+      "com.gamedevltd.modernstrike",
+      "com.gameloft.android.ANMP.GloftA9HM",
+      "com.gameloft.android.ANMP.GloftD2HM",
+      "com.gramgames.mergedragons",
+      "com.habby.archero",
+      "com.halfbrick.fruitninjafree",
+      "com.hypah.io.slither",
+      "com.igg.android.lordsmobile",
+      "com.imangi.templerun2",
+      "com.innersloth.spacemafia",
+      "com.ketchapp.stack",
+      "com.kiloo.subwaysurf",
+      "com.king.candycrushsaga",
+      "com.king.candycrushsodasaga",
+      "com.king.farmheroessaga",
+      "com.levelinfinite.sgameGlobal",
+      "com.lilithgame.roc.gp",
+      "com.lilithgames.xgame.gp",
+      "com.machinezone.gow",
+      "com.madfingergames.deadtrigger2",
+      "com.miHoYo.GenshinImpact",
+      "com.miHoYo.hkrpg",
+      "com.microsoft.xboxone.smartglass",
+      "com.miniclip.agar.io",
+      "com.miniclip.eightballpool",
+      "com.mobile.legends",
+      "com.mobilityware.solitaire",
+      "com.mojang.minecraftpe",
+      "com.moonactive.coinmaster",
+      "com.nekki.shadowfight",
+      "com.nekki.vector2",
+      "com.netease.g93na",
+      "com.netease.idv.googleplay",
+      "com.ngame.allstar.eu",
+      "com.nianticlabs.pokemongo",
+      "com.nianticproject.ingress",
+      "com.ninjakiwi.bloonstd6",
+      "com.nintendo.znca",
+      "com.noodlecake.altosadventure",
+      "com.nvidia.geforcenow",
+      "com.outfit7.mytalkingangelafree",
+      "com.outfit7.mytalkingtomfriends",
+      "com.outfit7.talkingtom2free",
+      "com.peakgames.toonblast",
+      "com.pixel.gun3d",
+      "com.playdead.limbo.full",
+      "com.playrix.fishdomdd.gplay",
+      "com.playrix.gardenscapes",
+      "com.playrix.homescapes",
+      "com.playstation.remoteplay",
+      "com.prineside.tdi2",
+      "com.pubg.imobile",
+      "com.pubg.krmobile",
+      "com.riotgames.league.teamfighttactics",
+      "com.riotgames.league.wildrift",
+      "com.riotgames.legendsofruneterra",
+      "com.roblox.client",
+      "com.robtopx.geometrydashlite",
+      "com.robtopx.geometryjump",
+      "com.rockstargames.gtaiii",
+      "com.rockstargames.gtasa",
+      "com.rockstargames.gtavc",
+      "com.rovio.angrybirds",
+      "com.rovio.baba",
+      "com.scee.psxandroid",
+      "com.scopely.monopolygo",
+      "com.sega.sonicdash",
+      "com.square_enix.android_googleplay.FFBEWW",
+      "com.supercell.brawlstars",
+      "com.supercell.clashofclans",
+      "com.supercell.clashroyale",
+      "com.supercell.hayday",
+      "com.tencent.ig",
+      "com.topgamesinc.evony",
+      "com.tripledot.solitaire",
+      "com.tripledot.woodoku",
+      "com.ustwo.monumentvalley",
+      "com.ustwo.monumentvalley2",
+      "com.valvesoftware.android.steam.community",
+      "com.wargaming.wot.blitz",
+      "com.zynga.livepoker",
+      "com.zynga.wwf2.free",
+      "io.voodoo.paper2"
+    ],
+    "health_fitness": [
+      "br.com.gympass",
+      "cc.relive.reliveapp",
+      "cn.xiaofengkj.fitpro",
+      "co.xoss",
+      "com.adidas.runtastic.android",
+      "com.calm.android",
+      "com.clue.android",
+      "com.dailyyoga.inc",
+      "com.endomondo.android",
+      "com.evgeniysharafan.tabatatimer",
+      "com.fitbit.FitbitMobile",
+      "com.fitnessapps.workoutathome",
+      "com.flo.period.tracker",
+      "com.freeletics.lite",
+      "com.garmin.android.apps.connectmobile.health",
+      "com.getsomeheadspace.android",
+      "com.google.android.apps.fitness",
+      "com.headspace.android",
+      "com.huami.watch.hmwatchmanager",
+      "com.insighttimer",
+      "com.keuwl.tabatatimer",
+      "com.leap.waterreminder",
+      "com.myfitnesspal.android",
+      "com.nike.ntc",
+      "com.nike.plusgps",
+      "com.northcube.sleepcycle",
+      "com.ouraring.oura",
+      "com.peaksware.trainingpeaks",
+      "com.polar.polarflow",
+      "com.popularapp.periodcalendar",
+      "com.pregnancyapp.babytracker.babygrowth",
+      "com.runtastic.android",
+      "com.samsung.android.wear.shealth",
+      "com.sec.android.app.shealth",
+      "com.smartfit.app",
+      "com.strava.android",
+      "com.sweatco.app",
+      "com.totalpass.app",
+      "com.urbandroid.sleep",
+      "com.veepoo.hband",
+      "com.waterminder.app",
+      "com.weitetech.WiiWatchPro",
+      "com.whoop.android",
+      "com.withings.wiscale2",
+      "com.xiaomi.wearable",
+      "com.yogaworkout.dailyyoga",
+      "com.zepp.www.zepplife",
+      "de.arnowelzel.android.periodical",
+      "de.dennisguse.opentracks",
+      "je.fit",
+      "org.iggymedia.periodtracker",
+      "org.nutritionfacts.dailydozen"
+    ],
+    "house_home": [
+      "br.com.quintoandar.inquilinos",
+      "br.com.zap.imoveis",
+      "com.amazon.dee.app",
+      "com.benjaminmoore.colorportfolio",
+      "com.broadlink.rmt",
+      "com.colorsnap",
+      "com.coolkit",
+      "com.ecobee.athenamobile",
+      "com.google.android.apps.chromecast",
+      "com.homify.android",
+      "com.houzz.app",
+      "com.ikea.tradfri.lighting",
+      "com.irobot.home",
+      "com.jee.green",
+      "com.lgeha.nuts",
+      "com.nest.android",
+      "com.philips.lighting.hue2",
+      "com.planner5d.planner5d",
+      "com.ringapp",
+      "com.roborock.smart",
+      "com.samsung.android.oneconnect",
+      "com.sonos.acr2",
+      "com.tplink.kasa_android",
+      "com.tuya.smart",
+      "com.tuya.smartlife",
+      "com.xiaomi.smarthome"
+    ],
+    "investments": [
+      "com.ourominas.app",
+      "com.ourominas.contaglobal"
+    ],
+    "keyboards_input": [
+      "com.google.android.inputmethod.latin",
+      "com.grammarly.android.keyboard",
+      "com.menny.android.anysoftkeyboard",
+      "com.samsung.android.honeyboard",
+      "com.touchtype.swiftkey",
+      "io.github.sspanak.tt9",
+      "org.pocketworkstation.pckeyboard"
+    ],
+    "languages_courses": [
+      "com.odnovolov.forgetmenot"
+    ],
+    "launchers_themes": [
+      "com.actionlauncher.playstore",
+      "com.mi.android.globallauncher",
+      "com.microsoft.launcher",
+      "com.teslacoilsw.launcher",
+      "ginlemon.flowerfree"
+    ],
+    "libraries_demo": [
+      "com.android.cts.verifier",
+      "com.example.android.apis"
+    ],
+    "lifestyle": [
+      "br.com.app.gpu1939563.gpua074f80bbdf68dbe4818b2bc4ffd1f6c",
+      "br.com.app.gpu2015586.gpu578f8571a8e839823c964411e5440382",
+      "com.aromaterapia.app",
+      "com.astrolinkapp.astrolink",
+      "com.bitsmedia.android.muslimpro",
+      "com.bunqr.prepapp.fdroid",
+      "com.comunidadlunar",
+      "com.dayoneapp.dayone",
+      "com.habitica.android",
+      "com.islam.muslimpro",
+      "com.journey.app",
+      "com.jw.jwlibrary.mobile",
+      "com.loopHabitTracker",
+      "com.peakpocketstudios.atmospherebinauraltherapy",
+      "com.quantico.goodvibes",
+      "com.red.rifegen",
+      "com.samsung.sree",
+      "com.sec.android.app.samsungapps",
+      "com.spooky2.remote",
+      "com.totalwellnessmedia.essentiallife",
+      "com.tzolkin.sincronario1320",
+      "in.lts.mudrascience",
+      "net.aspbrasil.keer.core.keerflorais",
+      "org.holidates.energy",
+      "org.isoron.uhabits"
+    ],
+    "maker_3d_print": [
+      "ac.cloud.com",
+      "bbl.intl.bambulab.com",
+      "com.neje.n2",
+      "com.neje.scanner",
+      "com.threedrop.three_drop"
+    ],
+    "maps_navigation": [
+      "app.starlingmap",
+      "com.alltrails.alltrails",
+      "com.autonavi.minimap",
+      "com.baidu.BaiduMap",
+      "com.gaiagps.android",
+      "com.garmin.android.apps.connectmobile",
+      "com.google.android.apps.maps",
+      "com.google.android.street",
+      "com.google.earth",
+      "com.here.app.maps",
+      "com.ioverlander.ioverlander",
+      "com.kylecorry.trail_sense",
+      "com.mapbox.navigation",
+      "com.mapswithme.maps.pro",
+      "com.samchristiansen.ioverlander.droid",
+      "com.strava",
+      "com.sygic.aura",
+      "com.tomtom.gplay.navapp",
+      "com.waze",
+      "com.yandex.yandexmaps",
+      "com.yandex.yandexnavi",
+      "de.storchp.opentracks.osmplugin",
+      "mobi.maptrek",
+      "net.osmand",
+      "net.osmand.plus",
+      "org.organicmaps.app",
+      "org.woheller69.PeakOrama",
+      "page.ooooo.geoshare",
+      "ru.dublgis.dgismobile"
+    ],
+    "medical": [
+      "appinventor.ai_hbautistam.geriatrics_decision",
+      "br.com.einstein.app",
+      "br.com.fleury.app",
+      "br.com.memed.prescricao",
+      "br.com.sulamerica.saude",
+      "br.com.unimed.app",
+      "br.gov.datasus.cnsdigital",
+      "br.gov.datasus.conectesus",
+      "com.TecnoTrainerDemos.ProstateHeatTreatment",
+      "com.ada.app",
+      "com.amil.app",
+      "com.animares.insightkidney",
+      "com.animares.insightlung",
+      "com.animares.insightprostate",
+      "com.artifyapp.mcare",
+      "com.babylon.android",
+      "com.bivissoft.vetfacilbrasil",
+      "com.dasa.app",
+      "com.doctoralia.android",
+      "com.drconsulta.app",
+      "com.drugs.com",
+      "com.epocrates",
+      "com.futsch1.medtimer",
+      "com.hospitalsiriolibanes.app",
+      "com.medisafe.android.client",
+      "com.medscape.android",
+      "com.montunosoftware.pillpopper",
+      "com.tcmpoints.homeopathy",
+      "com.webmd.android",
+      "com.whitecoat.android",
+      "com.zocdoc.android"
+    ],
+    "modeling_3d": [
+      "com.nynix.knots3d",
+      "org.andresoviedo.dddmodel2"
+    ],
+    "music_audio": [
+      "au.com.shiftyjelly.pocketcasts",
+      "code.alimiracle.sunpiano",
+      "code.name.monkey.retromusic",
+      "com.amazon.mp3",
+      "com.anghami",
+      "com.apple.android.music",
+      "com.aspiro.tidal",
+      "com.audible.application",
+      "com.bandlab.bandlab",
+      "com.bearinmind.equalizer314",
+      "com.bsbportal.music",
+      "com.clearchannel.iheartradio.controller",
+      "com.doubleTwist.androidPlayer",
+      "com.gaana",
+      "com.google.android.apps.podcasts",
+      "com.google.android.apps.youtube.music",
+      "com.google.android.music",
+      "com.jetappfactory.jetaudioplus",
+      "com.jio.media.jiobeats",
+      "com.kapp.ifile",
+      "com.maxmpz.audioplayer",
+      "com.musixmatch.android.lyrify",
+      "com.overcast.podcasts",
+      "com.panasonic.avc.diga.maxjuke",
+      "com.pandora.android",
+      "com.podimo.app",
+      "com.sec.android.app.music",
+      "com.shazam.android",
+      "com.simplecity.amp_pro",
+      "com.smule.singandroid",
+      "com.soundcloud.android",
+      "com.spotify.lite",
+      "com.spotify.music",
+      "com.spreaker.android.radio",
+      "com.zhiliaoapp.musically.go",
+      "de.danoeh.antennapod",
+      "deezer.android.app",
+      "fm.castbox.audiobook.radio.podcast",
+      "org.audacityteam.audacity",
+      "org.billthefarmer.siggen",
+      "org.videolan.vlc",
+      "tunein.player"
+    ],
+    "network_wifi": [
+      "com.craxiom.networksurvey",
+      "com.dosse.speedtest",
+      "com.ookla.speedtest",
+      "com.starlink.mobile",
+      "com.vrem.wifianalyzer",
+      "org.zwanoo.android.speedtest"
+    ],
+    "news_magazines": [
+      "bbc.mobile.news.ww",
+      "br.com.band.noticias",
+      "br.com.editoraabril.veja",
+      "br.com.estadao.app",
+      "br.com.globo.g1",
+      "br.com.terra.noticias",
+      "com.bloomberg.android.plus",
+      "com.cartacapital.app",
+      "com.cnn.mobile.android.phone",
+      "com.feedly.cloud",
+      "com.folha.app",
+      "com.google.android.apps.magazines",
+      "com.ground.news",
+      "com.guardian",
+      "com.innologica.inoreader",
+      "com.nexojornal.app",
+      "com.nononsenseapps.feeder",
+      "com.nytimes.android",
+      "com.r7.noticias",
+      "com.reuters.reuters",
+      "com.theintercept.app",
+      "com.uol.noticias",
+      "com.washingtonpost.android",
+      "flipboard.app",
+      "ml.docilealligator.infinityforreddit",
+      "org.mozilla.pocket"
+    ],
+    "nfc_tags": [
+      "de.mw136.tonuino"
+    ],
+    "notes_tasks": [
+      "com.adilhanney.saber",
+      "com.airtable.android",
+      "com.any.do",
+      "com.anydo",
+      "com.asana.app",
+      "com.clickup.android",
+      "com.darkrockstudios.apps.hammer.android",
+      "com.evernote",
+      "com.google.android.apps.tasks",
+      "com.google.android.keep",
+      "com.lolo.io.onelist",
+      "com.luckydroid.droidbase",
+      "com.microsoft.office.onenote",
+      "com.microsoft.todos",
+      "com.notion.id",
+      "com.samsung.android.app.reminder",
+      "com.simplemobiletools.notes.pro",
+      "com.ticktick.task",
+      "com.todoist",
+      "com.trello",
+      "com.wunderkinder.wunderlistandroid",
+      "it.niedermann.owncloud.notes",
+      "md.obsidian",
+      "net.cozic.joplin"
+    ],
+    "parenting": [
+      "com.amila.parenting",
+      "com.babycenter.pregnancytracker",
+      "com.glow.android.nurture",
+      "com.google.android.apps.kids.familylink",
+      "com.google.android.apps.kids.home",
+      "com.kidslox.app",
+      "com.ovuline.pregnancy",
+      "com.qustodio.qustodioapp",
+      "com.whatoexpect.pregnancy",
+      "net.safelagoon.lagoon2"
+    ],
+    "password_managers": [
+      "com.agilebits.onepassword",
+      "com.authy.authy",
+      "com.azure.authenticator",
+      "com.beemdevelopment.aegis",
+      "com.bitwarden.authenticator",
+      "com.giraone.secretsafelite",
+      "com.google.android.apps.authenticator2",
+      "com.keepassdroid",
+      "com.kunzisoft.keepass.free",
+      "com.lastpass.lpandroid",
+      "com.synology.securesignin",
+      "com.x8bit.bitwarden",
+      "org.sufficientlysecure.keychain"
+    ],
+    "pdf_office": [
+      "cn.wps.moffice_eng",
+      "com.adobe.reader",
+      "com.dataviz.docstogo",
+      "com.foxit.mobile.pdf.lite",
+      "com.google.android.apps.docs.editors.docs",
+      "com.google.android.apps.docs.editors.sheets",
+      "com.google.android.apps.docs.editors.slides",
+      "com.google.android.apps.pdfviewer",
+      "com.microsoft.office.excel",
+      "com.microsoft.office.officehubrow",
+      "com.microsoft.office.powerpoint",
+      "com.microsoft.office.word",
+      "com.mobisystems.office",
+      "com.xodo.pdf.reader",
+      "com.yourname.pdftoolkit",
+      "org.documentfoundation.libreoffice"
+    ],
+    "personalization": [
+      "com.anddoes.launcher",
+      "com.backdrops.wallpapers",
+      "com.gau.go.launcherex",
+      "com.google.android.apps.wallpaper",
+      "com.gtp.nextlauncher",
+      "com.jiubang.goscreenlock",
+      "com.kieronquinn.app.smartspacer",
+      "com.kustom.wallpaper",
+      "com.kvaesitso.launcher",
+      "com.lwi.android.flapps",
+      "com.samsung.android.pentastic",
+      "com.samsung.android.themestore",
+      "com.sec.android.app.wallpaperchooser",
+      "com.simplewallpapers.app",
+      "com.ss.launcher2",
+      "com.tombayley.volumepanel",
+      "com.walli.wallpapers",
+      "com.zedge.android",
+      "de.mm20.launcher2.release",
+      "home.solo.launcher.free",
+      "it.simonesestito.ntiles",
+      "org.kustom.wallpaper",
+      "org.kustom.widget",
+      "rk.android.app.shortcutmaker"
+    ],
+    "photography": [
+      "com.adobe.lrmobile",
+      "com.adobe.psmobile",
+      "com.adobe.spark.post",
+      "com.canva.editor",
+      "com.commsource.beautyplus",
+      "com.cyberlink.youcammakeup",
+      "com.cyberlink.youperfect",
+      "com.fivehundredpx.viewer",
+      "com.flavionet.android.camera.pro",
+      "com.flickr.android",
+      "com.footej.camera",
+      "com.fstop.photo",
+      "com.google.android.GoogleCamera",
+      "com.google.android.apps.photos",
+      "com.google.android.apps.pixelmigrate",
+      "com.google.android.apps.snapseed",
+      "com.icatch.ismartdv2016",
+      "com.instagram.boomerang",
+      "com.instagram.layout",
+      "com.lightricks.facetune",
+      "com.lightricks.videoleap",
+      "com.linerock.collage",
+      "com.lyrebirdstudio.montagenscolagem",
+      "com.meitu.meiyancamera",
+      "com.niksoftware.snapseed",
+      "com.photoeditor.photoeffect",
+      "com.photoroom.app",
+      "com.picsart.studio",
+      "com.piktures.app",
+      "com.pixlr.express",
+      "com.samsung.android.app.galaxyraw",
+      "com.samsung.android.imageenhancer",
+      "com.sec.android.app.camera",
+      "com.sec.android.gallery3d",
+      "com.simplemobiletools.gallery.pro",
+      "com.snapchat.lens",
+      "com.unsplash.wallpapers",
+      "com.vsco.cam",
+      "net.sourceforge.opencamera",
+      "ru.tech.imageresizershrinker"
+    ],
+    "printing": [
+      "cn.paperang.international",
+      "com.dynamixsoftware.printhand.premium",
+      "com.epson.epsonsmart",
+      "com.epson.labeleditormobile",
+      "com.epson.mobilephone.creative",
+      "com.google.android.printservice.recommendation",
+      "epson.print",
+      "js.print.printservice.xml",
+      "lu.kremi151.printresizer",
+      "org.billthefarmer.print",
+      "xp.print.printservice.xml"
+    ],
+    "qr_barcode": [
+      "com.gamma.scan",
+      "com.google.zxing.client.android",
+      "com.sandu.xpbarcode",
+      "com.teacapps.barcodescanner"
+    ],
+    "radio_sdr": [
+      "aeroescuta.com.br",
+      "com.andgoapps.tone",
+      "com.app.escutabrasilaereoapp",
+      "com.arcoirislabs.dtmfencdec.app",
+      "com.benshikj.ht.btech",
+      "com.dutchmatic.patone",
+      "com.lemuridaelabs.meshscope",
+      "com.mantz_it.rfanalyzer",
+      "com.meshplusplus",
+      "com.on7off.tciremote",
+      "com.wolphi.navtex",
+      "cz.kyblsoft.meshcore.signaltester",
+      "de.dm1ri.totalog",
+      "org.sdrpp.sdrpp",
+      "org.sdrppbrown.sdrppbrown",
+      "ru.natsuru.websdr",
+      "solutions.saubeo.rdioScanner"
+    ],
+    "religion": [
+      "com.kirlanik1387",
+      "com.philosophy.stoicism",
+      "net.bahaiprayers.app"
+    ],
+    "remote_desktop": [
+      "com.anydesk.anydeskandroid",
+      "com.gaurav.avnc",
+      "com.rsupport.rs.activity.rsupport.aas2",
+      "com.teamviewer.teamviewer.market.mobile"
+    ],
+    "remote_smarthome": [
+      "com.amazon.storm.lightning.client.aosp",
+      "com.baseus.intelligent",
+      "com.google.android.apps.chromecast.app",
+      "net.poweroak.bluetticloud",
+      "uk.co.purplelabs.gopro_remote",
+      "wl.smartled",
+      "www.romateck.com.u1"
+    ],
+    "scanner_docs": [
+      "com.adobe.scan.android",
+      "com.geniusscansdk.geniusscan",
+      "com.go2get.skanapp",
+      "com.intsig.camscanner",
+      "com.microsoft.office.officelens",
+      "de.schliweb.makeacopy",
+      "net.doo.android.scanbot"
+    ],
+    "science_engineering": [
+      "br.com.cortecloud.app",
+      "br.developer.gesep.estimate",
+      "br.embrapa.bioinsumos",
+      "com.danfoss.koolapp"
+    ],
+    "security_cameras": [
+      "com.alexvas.dvr.pro",
+      "com.hopeway.cam.newhope",
+      "com.juanvision.eseecloud30",
+      "com.naxclow.v720"
+    ],
+    "security_vpn": [
+      "com.antivirus",
+      "com.avast.android.mobilesecurity",
+      "com.avg.android.vpn",
+      "com.bitdefender.security",
+      "com.celzero.bravedns",
+      "com.cleanmaster.security",
+      "com.cyberghost.vpn",
+      "com.drweb",
+      "com.duckduckgo.mobile.android.vpn",
+      "com.eset.ems2.gp",
+      "com.expressvpn.vpn",
+      "com.freevpnintouch",
+      "com.google.android.apps.adm",
+      "com.kms.free",
+      "com.malwarebytes.antimalware",
+      "com.mcafee.security",
+      "com.mullvad.mullvadvpn",
+      "com.nordvpn.android",
+      "com.paranoiaworks.unicus.android.sse",
+      "com.privateinternetaccess.android",
+      "com.protonvpn.android",
+      "com.surfshark.vpnclient.android",
+      "com.symantec.mobilesecurity",
+      "com.trendmicro.tmmspersonal",
+      "com.tunnelbear.android",
+      "com.windscribe.vpn",
+      "com.wireguard.android",
+      "de.mobileconcepts.cyberghost",
+      "free.vpn.unblock.proxy.turbovpn",
+      "hotspotshield.android.vpn",
+      "net.openvpn.openvpn",
+      "org.malwarebytes.antimalware",
+      "org.torproject.android"
+    ],
+    "sensors_compass": [
+      "appinventor.ai_markcoultous.GhostShark_EMF",
+      "com.contechity.flicker_meter",
+      "com.kiwi.sensorbox"
+    ],
+    "shopping": [
+      "br.com.buscape.MainPack",
+      "br.com.cec",
+      "br.com.centauro",
+      "br.com.decathlon",
+      "br.com.disal.DisalApp",
+      "br.com.dotz.clientea",
+      "br.com.dutramaquinas.pwa",
+      "br.com.enjoei.app",
+      "br.com.kabum",
+      "br.com.kabum.webviewapp",
+      "br.com.leomadeiras",
+      "br.com.leroymerlin",
+      "br.com.madeiramadeira",
+      "br.com.magazineluiza.mlapp",
+      "br.com.petlove.petlove",
+      "br.com.petz",
+      "br.com.pontofrio.app",
+      "br.com.reclameaqui.app",
+      "br.com.renner.rchlo",
+      "br.com.rihappy.meusolzinho",
+      "br.com.ultrafarma.app",
+      "com.YRH.PackPoint",
+      "com.alibaba.aliexpresshd",
+      "com.alibaba.intl.android.apps.poseidon",
+      "com.amazon.mShop.android.shopping",
+      "com.b2w.americanas",
+      "com.b2w.shoptime",
+      "com.b2w.submarino",
+      "com.banggood.client",
+      "com.bazarhorizonte.app",
+      "com.buscaofertas.app",
+      "com.casasbahia.app",
+      "com.contextlogic.wish",
+      "com.dafiti.android",
+      "com.decathlon.app",
+      "com.ebay.mobile",
+      "com.einnovation.temu",
+      "com.etsy.android",
+      "com.google.android.apps.shopping.express",
+      "com.henriquedroid.listapremium",
+      "com.iherb",
+      "com.ikea.kompis",
+      "com.kalunga.app",
+      "com.keepa.mobile",
+      "com.luizalabs.mlapp",
+      "com.mercadolibre",
+      "com.mobfiq.niazichohfi",
+      "com.mobfiq.singer",
+      "com.mobly",
+      "com.netshoes.app",
+      "com.pichaumobile",
+      "com.riachuelo.app",
+      "com.schibsted.bomnegocio.androidApp",
+      "com.sheinapp.android",
+      "com.shopee.br",
+      "com.slbdeveloper.packinglist",
+      "com.target.ui",
+      "com.tokstok.app",
+      "com.ubuy",
+      "com.walmart.android",
+      "com.wayfair.wayfair",
+      "com.zoom.zoomandroid",
+      "com.zzkko",
+      "me.hackerchick.catima"
+    ],
+    "social": [
+      "com.bereal.ft",
+      "com.facebook.katana",
+      "com.facebook.lite",
+      "com.imgur.mobile",
+      "com.instagram.android",
+      "com.instagram.barcelona",
+      "com.instagram.lite",
+      "com.kuaishou.nebula",
+      "com.linkedin.android",
+      "com.meetup",
+      "com.nextdoor",
+      "com.ninegag.android.app",
+      "com.pinterest",
+      "com.quora.android",
+      "com.reddit.frontpage",
+      "com.sina.weibo",
+      "com.snapchat.android",
+      "com.ss.android.article.news",
+      "com.ss.android.ugc.trill",
+      "com.tumblr",
+      "com.twitch.android.app",
+      "com.twitter.android",
+      "com.vkontakte.android",
+      "com.zhiliaoapp.musically",
+      "org.joinmastodon.android",
+      "xyz.blueskyweb.app"
+    ],
+    "sports": [
+      "br.com.cartolafc",
+      "br.com.saopaulofc",
+      "com.bet365.app",
+      "com.betano.app",
+      "com.cbf.app",
+      "com.corinthians.app",
+      "com.espn.score_center",
+      "com.fifa.fifaapp.android",
+      "com.fivemobile.thescore",
+      "com.flamengo.app",
+      "com.flashscore.flashscore",
+      "com.formula1.account",
+      "com.fotmob.android",
+      "com.globo.cartolafc",
+      "com.globo.globoesporte",
+      "com.livescore",
+      "com.mlb.atbat",
+      "com.nba.game",
+      "com.nfl.mobile",
+      "com.onefootball",
+      "com.palmeiras.app",
+      "com.sofascore.results",
+      "com.uefa.ucl",
+      "es.besoccer.main"
+    ],
+    "system": [
+      "com.android.bluetooth",
+      "com.android.nfc",
+      "com.android.permissioncontroller",
+      "com.android.phone",
+      "com.android.providers.downloads",
+      "com.android.providers.downloads.ui",
+      "com.android.providers.media",
+      "com.android.settings",
+      "com.android.settings.intelligence",
+      "com.android.systemui",
+      "com.android.vending",
+      "com.google.android.apps.nexuslauncher",
+      "com.google.android.apps.safetyhub",
+      "com.google.android.apps.wellbeing",
+      "com.google.android.ext.services",
+      "com.google.android.gms",
+      "com.google.android.googlequicksearchbox",
+      "com.google.android.gsf",
+      "com.google.android.packageinstaller",
+      "com.google.android.webview",
+      "com.jrummyapps.android.radiobuttons",
+      "com.samsung.android.app.aodservice",
+      "com.samsung.android.app.edgetouch",
+      "com.samsung.android.app.find",
+      "com.samsung.android.app.galaxyfinder",
+      "com.samsung.android.app.goodcatch",
+      "com.samsung.android.app.tips",
+      "com.samsung.android.bixby.agent",
+      "com.samsung.android.displayassistant",
+      "com.samsung.android.incallui",
+      "com.samsung.android.knox.containercore",
+      "com.samsung.android.scloud",
+      "com.samsung.android.sidegesturepad",
+      "com.samsung.android.soundassistant",
+      "com.samsung.knox.securefolder",
+      "com.sec.android.app.launcher"
+    ],
+    "teaching_tools": [
+      "com.apps.ips.classplanner2",
+      "com.apps.ips.classplanner3",
+      "com.apps.ips.dailytasktracker3",
+      "com.apps.ips.rubricscorer3",
+      "com.apps.ips.studentlogsdemo2",
+      "com.apps.ips.teacheraidepro4",
+      "com.apps.ips.teachernotes3"
+    ],
+    "telecom": [
+      "br.com.net.netapp",
+      "br.com.timbrasil.meutim",
+      "br.com.vivo",
+      "br.com.vivo.meuvivoempresas",
+      "br.com.vivo.vivoeasy",
+      "com.nvt.cs",
+      "net.jwcom.www"
+    ],
+    "text_speech": [
+      "app.marmalade.stt",
+      "com.antivocale.app",
+      "com.brahmadeo.supertonic.tts",
+      "com.transkriptor.app",
+      "com.vocahq.vocaphone",
+      "org.scrib.transcriber",
+      "org.woheller69.ttsengine",
+      "tts.reader"
+    ],
+    "tools": [
+      "app.bugbyte.fakeidgenerator",
+      "com.arlosoft.macrodroid",
+      "com.bhanu.appsorganizer",
+      "com.br.projefacil",
+      "com.corphish.quicktools.single",
+      "com.countthis.count.things.counting.template.counter",
+      "com.digitaltool.mobiletoolbox.smarttoolbox",
+      "com.dilojhon.all.tools.utilities.toolkit.smart.toolbox",
+      "com.dyve.countthings",
+      "com.google.android.apps.lens",
+      "com.google.ar.lens",
+      "com.ifttt.ifttt",
+      "com.keuwl.bannerscroller",
+      "com.llamalab.automate",
+      "com.lufesu.app.notification_organizer",
+      "com.mi.earphone",
+      "com.parallel.space.lite",
+      "com.pcmehanik.smarttoolbox",
+      "com.pcmehanik.smarttoolsutilities",
+      "com.pradhyu.alltoolseveryutility",
+      "com.sm.allsmarttools",
+      "com.smarttools.utility.multipurpose",
+      "com.universal.manager",
+      "com.xplorr.qiwiq",
+      "com.zappkit.zappid",
+      "io.keepalive.android",
+      "net.dinglisch.android.taskerm",
+      "nodomain.freeyourgadget.gadgetbridge",
+      "org.woheller69.seemless"
+    ],
+    "translators_dict": [
+      "com.deepl.mobiletranslator",
+      "com.google.android.apps.translate",
+      "com.naver.labs.translator",
+      "com.wooask.zx",
+      "com.yandex.translate",
+      "livio.pack.lang.pt_BR",
+      "net.ultramagic.hierodict"
+    ],
+    "transport": [
+      "br.com.app.gpu",
+      "br.com.bikesampa",
+      "br.com.cittamobi",
+      "br.com.estapar",
+      "br.com.estapar.sp",
+      "br.com.indriver",
+      "br.com.mobile2you.appgas.costumer",
+      "br.com.moovit",
+      "br.com.pilovieira.tk303g",
+      "br.gov.sp.metro.oficial",
+      "cab.snapp.passenger",
+      "co.bird.android",
+      "com.bolt.consumer",
+      "com.citymapper.app.release",
+      "com.didiglobal.passenger",
+      "com.easytaxi",
+      "com.freenow.app",
+      "com.gigigo.ipirangaconectcar",
+      "com.grabtaxi.passenger",
+      "com.grupoultra.ultragazbrasilgas",
+      "com.guichevirtual.android",
+      "com.limebike",
+      "com.mais.kangu",
+      "com.neemo.rapidez",
+      "com.semparar.semparar.minhaconta2018",
+      "com.sptrans.olhovivo",
+      "com.taxis99",
+      "com.tembici.bikeitau",
+      "com.tranzmate",
+      "com.ubercab",
+      "com.ubercab.driver",
+      "com.yellow.app",
+      "com.yw.yuntrack",
+      "ee.mtakso.client",
+      "me.lyft.android",
+      "net.track24.android",
+      "sinet.startup.inDriver",
+      "site.rotakids.app",
+      "yqtrack.app"
+    ],
+    "travel_local": [
+      "br.com.clickbus",
+      "br.com.cvc.app",
+      "br.com.ecoguias.cachoeirasestradareal",
+      "br.com.macamp.app",
+      "br.com.mobcontent.etrilhasapp",
+      "br.com.multiplus.participantemultiplus",
+      "br.com.voeazul",
+      "com.aa.android",
+      "com.airbnb.android",
+      "com.booking",
+      "com.buser.app",
+      "com.decolar.android",
+      "com.delta.mobile.android",
+      "com.despegar.android",
+      "com.easyjet.mobile.android",
+      "com.emirates.ek.android",
+      "com.expedia.bookings",
+      "com.gol.android",
+      "com.google.android.apps.travel.onthego",
+      "com.hostelworld.app",
+      "com.hotels.android",
+      "com.joelapenna.foursquared",
+      "com.kayak.android",
+      "com.latam.mobile",
+      "com.latam.pass",
+      "com.lufthansa.android.lufthansa",
+      "com.nomadlife",
+      "com.omio.android",
+      "com.oyo.consumer",
+      "com.rome2rio.www",
+      "com.ryanair.cheapflights",
+      "com.skyscanner.android.main",
+      "com.tripadvisor.tripadvisor",
+      "com.trivago",
+      "com.united.mobile.android",
+      "com.urbiaapp",
+      "mdeom.uaicamp"
+    ],
+    "usb_storage": [
+      "com.sandisk.smz2"
+    ],
+    "video_players": [
+      "br.com.globosat.android.premiere",
+      "com.adobe.premiererush.videoeditor",
+      "com.amazon.avod.thirdpartyclient",
+      "com.apple.atve.androidtv.appletv",
+      "com.camerasideas.instashot",
+      "com.capcut.android",
+      "com.cerdillac.persetfilter",
+      "com.crunchyroll.crunchyroid",
+      "com.disney.disneyplus",
+      "com.disney.starplus",
+      "com.freereels.app",
+      "com.funimation.FunimationNow",
+      "com.globo.globosat.cartolafc",
+      "com.globo.globotv",
+      "com.google.android.apps.youtube.kids",
+      "com.google.android.youtube",
+      "com.google.android.youtube.tv",
+      "com.hbo.hbonow",
+      "com.hulu.plus",
+      "com.inisoft.mediaplayer.a",
+      "com.instagram.reels",
+      "com.kinemaster.app",
+      "com.kmplayer",
+      "com.lemon.lvoverseas",
+      "com.mxtech.videoplayer.ad",
+      "com.mxtech.videoplayer.pro",
+      "com.netflix.mediaclient",
+      "com.nexstreaming.app.kinemasterfree",
+      "com.paramount.android.pplus",
+      "com.peacocktv.peacockandroid",
+      "com.plexapp.android",
+      "com.quvideo.xiaoying",
+      "com.videoeditorpro.android",
+      "com.wbd.stream",
+      "is.xyz.mpv",
+      "jp.nonbili.noutube",
+      "org.jellyfin.mobile",
+      "org.videolan.vlc.debug",
+      "tv.pluto.android",
+      "video.player.videoplayer"
+    ],
+    "wallets_payments": [
+      "com.google.android.apps.nbu.paisa.user",
+      "com.westernunion.moneytransferr3app.acs3"
+    ],
+    "weather": [
+      "br.com.climatempo.app",
+      "co.windyapp.android",
+      "com.accuweather.android",
+      "com.acmeaom.android.myradar",
+      "com.devexpert.weather",
+      "com.graph.weather.forecast.channel",
+      "com.samruston.weather",
+      "com.sec.android.daemonapp",
+      "com.ventusky.android",
+      "com.weather.Weather",
+      "com.windyty.android",
+      "com.wunderground.android.weather",
+      "mobi.lockdown.weather",
+      "org.breezyweather",
+      "wangdaye.com.geometricweather"
+    ]
+  },
+  "provenance": {
+    "aeroescuta.com.br": {
+      "origem": "verificado",
+      "confianca": 100
+    },
+    "app.bugbyte.fakeidgenerator": {
+      "origem": "verificado",
+      "confianca": 100
+    },
+    "app.ferrovelho.twa": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "app.kryfo": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "app.marmalade.stt": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "app.pwhs.universalinstaller": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "app.starlingmap": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "appinventor.ai_hbautistam.geriatrics_decision": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "appinventor.ai_markcoultous.GhostShark_EMF": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "appinventor.ai_plumtreeinbackyard.SoapCal_Lite": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "askanimus.arbeitszeiterfassung2": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.app.gpu1939563.gpua074f80bbdf68dbe4818b2bc4ffd1f6c": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "br.com.app.gpu2015586.gpu578f8571a8e839823c964411e5440382": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "br.com.appfactory.movida": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.awto.client": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.buscape.MainPack": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.cec": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.cortecloud.app": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "br.com.decathlon": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.digipronto.ChinaInBox": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.disal.DisalApp": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "br.com.dutramaquinas.pwa": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.ecoguias.cachoeirasestradareal": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.enjoei.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.estapar": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.estapar.sp": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.hinovamobile.visto": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "br.com.jr3": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.kabum.webviewapp": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.leomadeiras": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.macamp.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.madeiramadeira": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.mobcontent.etrilhasapp": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.mobile2you.appgas.costumer": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.multiplus.participantemultiplus": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.net.netapp": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "br.com.petlove.petlove": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.petz": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.pilovieira.tk303g": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.quintoandar.inquilinos": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.reclameaqui.app": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "br.com.rihappy.meusolzinho": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.timbrasil.meutim": {
+      "origem": "conhecimento",
+      "confianca": 95
+    },
+    "br.com.ultrafarma.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.com.vivo": {
+      "origem": "conhecimento",
+      "confianca": 95
+    },
+    "br.com.vivo.meuvivoempresas": {
+      "origem": "conhecimento",
+      "confianca": 95
+    },
+    "br.com.vivo.vivoeasy": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "br.com.zap.imoveis": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "br.developer.gesep.estimate": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "br.embrapa.bioinsumos": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "br.net.btco.soroban": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "calcculatorsapps.net.enciclopedias.worldstamps": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "cc.relive.reliveapp": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "cm.aptoide.pt": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "cn.paperang.international": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "cn.rbc.termuc": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "cn.xiaofengkj.fitpro": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "co.xoss": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "code.alimiracle.sunpiano": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.ApexCreator.localaiapp": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.DCZT.FrequencyGenerator": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.PixelMiller.UnrealChemist": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.TecnoTrainerDemos.ProstateHeatTreatment": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.YRH.PackPoint": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.adilhanney.saber": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.alexvas.dvr.pro": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.amazon.storm.lightning.client.aosp": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.amg.cosmeticanaturalia": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.andgoapps.tone": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.animares.insightkidney": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.animares.insightlung": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.animares.insightprostate": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.anthropic.claude": {
+      "origem": "conhecimento",
+      "confianca": 95
+    },
+    "com.antivocale.app": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "com.apk.editor": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.aplications.adimov.suviveres": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.app.escutabrasilaereoapp": {
+      "origem": "verificado",
+      "confianca": 100
+    },
+    "com.app.openlib": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.apps.ips.TeacherAidePro2": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.apps.ips.classplanner2": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.apps.ips.classplanner3": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.apps.ips.dailytasktracker3": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.apps.ips.randomstudent2trial": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.apps.ips.randomstudent3": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.apps.ips.rubricscorer2": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.apps.ips.rubricscorer3": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.apps.ips.studentlogsdemo2": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.apps.ips.teacheraidepro3": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.apps.ips.teacheraidepro4": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.apps.ips.teachernotes3": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.apstem.veganizeit": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.arcoirislabs.dtmfencdec.app": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.aromaterapia.app": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.artifex.mupdf.mini.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.artifyapp.mcare": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.baseus.intelligent": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.bazarhorizonte.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.bearinmind.equalizer314": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.benjaminmoore.colorportfolio": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.benshikj.ht.btech": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.berdik.letmedowngrade": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.bhanu.appsorganizer": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.bibliotecavirtual.bvpearson": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.biglybt.android.client": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.bivissoft.vetfacilbrasil": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.blueapps.egyptianwriter": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.boedec.hoel.frequencygenerator": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.br.projefacil": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.brahmadeo.supertonic.tts": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.brother.ph.mobile.craftsewing": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.buak.Link2SD": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.bunqr.prepapp.fdroid": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "com.buscaofertas.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.cax.pmk.ext": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.celzero.bravedns": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.check.plagiarism": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.chemistry.admin.chemistrylab": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.cinemark": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.classcalc.classcalc": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.clearstackapps.breadmath": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.codelv.inventory": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.coinidentifyer.ai": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.colnect.stamps_catalog.world": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.colorsnap": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.comunidadlunar": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.contechity.flicker_meter": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.converta.costuraebordado": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.coolkit": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.corphish.quicktools.single": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.countthis.count.things.counting.template.counter": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.craxiom.networksurvey": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.dafftin.android.moon_phase": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.danfoss.koolapp": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.darkrockstudios.apps.hammer.android": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.dataviz.docstogo": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.desrotulando.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.dictionary.immunology.virology.microbiology.immunologyvirology": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.digitaltool.mobiletoolbox.smarttoolbox": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.dilojhon.all.tools.utilities.toolkit.smart.toolbox": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.disney.starplus": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.do_apps.catalog_456": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.dosse.speedtest": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.drawstitch.embroiderylink": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.druk.lmplayground": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.dutchmatic.patone": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.dv.adm": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.dynamixsoftware.printhand.premium": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.dyve.countthings": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.eanema.graph89": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.emanuelef.remote_capture": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.embcart": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.embroiderydz.embroidery_viewer": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.emmetgray.wrpn": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.epson.epsonsmart": {
+      "origem": "conhecimento",
+      "confianca": 95
+    },
+    "com.epson.mobilephone.creative": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.everycircuit.free": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.evgeniysharafan.tabatatimer": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.fallenbug.circuitsimulator": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.finestandroid.soundgenerator": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.flasskamp.energize": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.flourwise": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "com.forshared.files": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.foss.aihub": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.freereels.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.frequencygenerator.soundgenerator": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.fruit4droid.cronosurf": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.fruit4droid.cronosurf.pro": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.futsch1.medtimer": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.gaurav.avnc": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.gbeatty.arxiv": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.ghostsq.commander": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.gianlu.aria2app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.gigigo.ipirangaconectcar": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.giraone.secretsafelite": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.glority.picturemushroom": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.glosbe.dict": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.go2get.skanapp": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.google.android.apps.meetings": {
+      "origem": "conhecimento",
+      "confianca": 95
+    },
+    "com.google.android.apps.playconsole": {
+      "origem": "conhecimento",
+      "confianca": 95
+    },
+    "com.google.ar.lens": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.groundspeak.geocaching.intro": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.grupoultra.ultragazbrasilgas": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.guichevirtual.android": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.handylibrary.main": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.helpcars.app": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.henriquedroid.listapremium": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.hexbit.rutmath": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.historyisfun.mesopotamiaancient": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.hopeway.cam.newhope": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.howto.handembroidery": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.htcardone.pantry": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.icatch.ismartdv2016": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.idea.share": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.iherb": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.imgur.mobile": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.ingresso.cinemas": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.inspiredandroid.kai": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "com.inspiredandroid.linuxcommandbibliotheca": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.internet.archive.org": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.ioverlander.ioverlander": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.jee.green": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.joelapenna.foursquared": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.juanvision.eseecloud30": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.kalunga.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.keepa.mobile": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.keuwl.bannerscroller": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.keuwl.tabatatimer": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.kirlanik1387": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.kylecorry.trail_sense": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.latam.pass": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.lemi.callsautoresponderpro": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.lemuridaelabs.meshscope": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.lgeha.nuts": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.localiza.mobile": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.lolo.io.onelist": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.lr_soft.windows98simulator": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.luckydroid.droidbase": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.luizalabs.mlapp": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.luxdelux.frequencygenerator": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.macdom.ble.blescanner": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.maiko.scanpet": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.maiko.xscanpet": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.mais.kangu": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.mantz_it.rfanalyzer": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.manualslib.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.mateusrodcosta.apps.share2storage": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.matttoni.minhadespensa": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.meshkachoutility": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.meshplusplus": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.mi.earphone": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.mobfiq.niazichohfi": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.mobfiq.singer": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.mobilefork.hermesagent": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "com.mobincube.embroidery": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.mobly": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.msd.professionalPortugese": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.mysewnet.embroidery": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.mysewnet.husqvarnaviking.embroiderymonitor": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.mysewnet.husqvarnaviking.projectreader": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.mysewnet.pfaff.projectreader": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.naxclow.v720": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.neemo.rapidez": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.neje.n2": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.neje.scanner": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.nishiyama.etymologyexplorer": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.noctuasoftware.stellarium_free": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.nomadlife": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "com.nvt.cs": {
+      "origem": "conhecimento",
+      "confianca": 95
+    },
+    "com.nynix.knots3d": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.obreey.reader": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.odnovolov.forgetmenot": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.offlinedictionary.etimology": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.offsec.nethunter.kex": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.on7off.tciremote": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.ourominas.app": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.ourominas.contaglobal": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.ovz.carscanner": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.oyo.consumer": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.panasonic.avc.diga.maxjuke": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.parallel.space.lite": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.paranoiaworks.unicus.android.sse": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.pcmehanik.smarttoolbox": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.pcmehanik.smarttoolsutilities": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.peakpocketstudios.atmospherebinauraltherapy": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.peaksware.trainingpeaks": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.philosophy.stoicism": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.pichaumobile": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.plantparentai.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.pocketpalai": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.positron_it.zlib": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.pradhyu.alltoolseveryutility": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.pregnancyapp.babytracker.babygrowth": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.qfi.tilemaker": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.quantico.goodvibes": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.rarlab.rar": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.razeeman.util.simpletimetracker": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.red.rifegen": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "com.reescrever.textos.enzipe": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.rentcars.rentcarscom": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.rhymit.sinonimos": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.rsupport.rs.activity.rsupport.aas2": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.rubex.nfile": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.samchristiansen.ioverlander.droid": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.samsung.android.app.find": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.samsung.android.app.goodcatch": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.samsung.android.displayassistant": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.samsung.android.imageenhancer": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.samsung.android.pentastic": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "com.samsung.android.soundassistant": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.samsung.sree": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.sandisk.smz2": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.sandu.xpbarcode": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.saulawa.anas.electronics_tollbox": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.schibsted.bomnegocio.androidApp": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.scribd.app.reader0.docs": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.sec.penup": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.semparar.semparar.minhaconta2018": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.senlainc.stitchapp": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.service.reports": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.setegraus.dicio": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.singer.sewingassistant": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.slbdeveloper.packinglist": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.sm.allsmarttools": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.smarttools.utility.multipurpose": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.soapmakingfriend.soapmf": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.spooky2.remote": {
+      "origem": "verificado",
+      "confianca": 100
+    },
+    "com.springwalk.lingotube": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.starlink.mobile": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.supercook.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.synology.DSfile": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.synology.DSfinder": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.synology.activeinsight": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.synology.securesignin": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.tachibana.downloader": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.tacony.babylock.positioning": {
+      "origem": "verificado",
+      "confianca": 100
+    },
+    "com.tang.etest.e_test": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.tcmpoints.homeopathy": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.termux.x11": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.thangs.mobile": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "com.tharunbirla.fetchit": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.theanilpaudel.allformulas": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.threedrop.three_drop": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.tokstok.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.tombursch.kitchenowl": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.totalwellnessmedia.essentiallife": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.transkriptor.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.trianguloy.urlchecker": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.tutpro.baresip": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.tuya.smart": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.tzolkin.sincronario1320": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.ultramegatech.ey": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.universal.manager": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.urbiaapp": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.veepoo.hband": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.vocahq.vocaphone": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "com.w2sv.filenavigator": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.watchaccuracymeter.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.weipaitang.coin": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "com.weitetech.WiiWatchPro": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.westernunion.moneytransferr3app.acs3": {
+      "origem": "conhecimento",
+      "confianca": 95
+    },
+    "com.whizical.kalplus": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "com.wolphi.navtex": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.wooask.zx": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "com.xplorr.qiwiq": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "com.yourname.pdftoolkit": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.yw.yuntrack": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.zappkit.zappid": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.zenghsing.EZCreator": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.zenghsing.MyPatterns": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.zima.mobileobservatorypro": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.zonarerealista.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.zoom.zoomandroid": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "com.zorrosoft.android.ingred": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "com.zubieta.craze": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "completai.mobile.v3": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "cz.kyblsoft.meshcore.signaltester": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "d.d.meshenger": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "de.arnowelzel.android.periodical": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "de.dennisguse.opentracks": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "de.dm1ri.totalog": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "de.jepfa.bdt": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "de.mediaz.mxapp.hpbgeode": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "de.mw136.tonuino": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "de.reimardoeffinger.quickdic": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "de.rwth_aachen.phyphox": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "de.schliweb.makeacopy": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "de.storchp.opentracks.osmplugin": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "de.syss.MifareClassicTool": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "de.yass.x_cuneiformdictionary": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "dev.chungjungsoo.gptmobile": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "devian.tubemate.v3": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "epson.print": {
+      "origem": "conhecimento",
+      "confianca": 95
+    },
+    "eu.nohus.classtime": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "exa.lnx.a": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "fr.moblo": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "habibs.alphacode.com.br": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "hands.android.webmotors": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "hk.words.wordshk": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "imoblife.toolbox.full.prokey": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "in.arjsna.permissionchecker": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "in.gopalakrishnareddy.torrent": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "in.lts.mudrascience": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "in.sunilpaulmathew.izzyondroid": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "io.keepalive.android": {
+      "origem": "pesquisa_web",
+      "confianca": 95
+    },
+    "io.makeroid.companion": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "io.shodan.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "it.niedermann.owncloud.notes": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "jp.co.casio.fx.ClassPad2": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "jp.co.casio.fx.fxCG500": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "jp.co.janome.acuedit": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "jp.co.janome.apps3157C": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "jp.nonbili.noutube": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "js.print.printservice.xml": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "karrar.sumerian.android": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "krillefear.funwithkanji": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "livio.pack.lang.pt_BR": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "lu.kremi151.printresizer": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "m4.enginary": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "marcaria.com.marcaria": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "mdeom.uaicamp": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "me.hackerchick.catima": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "mobi.maptrek": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "moe.shizuku.privileged.api": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "net.alexbarry.calc_android": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "net.aspbrasil.keer.core.keerflorais": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "net.bahaiprayers.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "net.casimirlab.frigoligo": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "net.cozic.joplin": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "net.easyconn.carman.wws": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "net.jwcom.www": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "net.poweroak.bluetticloud": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "net.stargw.applist": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "net.track24.android": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "net.ultramagic.hierodict": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "net.youapps.calcyou": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "no.nordicsemi.android.mcp": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.adaway": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.andresoviedo.dddmodel2": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.billthefarmer.print": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.billthefarmer.siggen": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.emulator.forty.eight": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.geogebra.android": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.geogebra.android.geometry": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.geogebra.android.scicalc": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.geogebra.math.solver": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.holidates.energy": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "org.kaqui": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.ligi.survivalmanual": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "org.nutritionfacts.dailydozen": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.plantnet": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.proninyaroslav.libretorrent": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.scrib.transcriber": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.sdrpp.sdrpp": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.sdrppbrown.sdrppbrown": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.tengel.planisphere": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.witness.sscphase1": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.woheller69.PeakOrama": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.woheller69.gptassist": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.woheller69.seemless": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.woheller69.ttsengine": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "org.woheller69.whobird": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "page.ooooo.geoshare": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "pl.apelgrim.colormixer": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "rs.in.dbase.downloader": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "ru.natsuru.websdr": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "ru.tech.imageresizershrinker": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "ru.vlcoins.catalog": {
+      "origem": "conhecimento",
+      "confianca": 80
+    },
+    "se.lottoland.app": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "simbio.se.nheengare": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "site.rotakids.app": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "slowscript.warpinator": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "solutions.saubeo.rdioScanner": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "spam.blocker": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "tts.reader": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "ua.syt0r.kanji.fdroid": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "uk.co.purplelabs.gopro_remote": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "universe.constellation.orion.viewer": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "wl.smartled": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "wp.wpbeta": {
+      "origem": "conhecimento",
+      "confianca": 85
+    },
+    "www.romateck.com.u1": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "xp.print.printservice.xml": {
+      "origem": "conhecimento",
+      "confianca": 90
+    },
+    "yqtrack.app": {
+      "origem": "conhecimento",
+      "confianca": 90
+    }
+  }
+}

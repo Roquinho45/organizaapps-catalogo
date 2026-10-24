@@ -1,0 +1,27 @@
+# Este repositório é só DADO: um JSON, um README, uma licença e um script.
+# Nada aqui compila, então não há build para ignorar.
+
+# --- Dados de APARELHO: nunca versionar ---
+#
+# Uma exportação de "quais apps eu tenho instalados" é dado pessoal: a lista
+# de apps de alguém revela banco, religião, saúde e hábitos. O validador
+# aceita um CSV desses como argumento OPCIONAL, para conferência local — ele
+# não deve ficar no repositório.
+*.csv
+apps_*.json
+*_instalados.*
+
+# --- Bancos exportados do celular ---
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
